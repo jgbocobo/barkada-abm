@@ -108,8 +108,8 @@ If you use this code, please cite:
   author    = {Bocobo, Jorge G. and Arnejo, Zenith O.},
   title     = {Simulating the Barkada Effect: An Agent-Based Model of Digital
                Payment Adoption Among University Students},
-  booktitle = {Advances in Practical Applications of Agentic AI and Multi-Agent
-               Systems (PAAMS 2026)},
+  booktitle = {24th International Conference on Practical Applications of
+               Agents and Multi-Agent Systems (PAAMS'26)},
   series    = {Lecture Notes in Artificial Intelligence},
   publisher = {Springer},
   year      = {2026}
